@@ -1,0 +1,5 @@
+total_item=10
+dimension=2
+num_iter=10000
+learning_rate=0.01
+negative_sampling_size=0
